@@ -11,7 +11,7 @@ will be monitored by its parent’s process.
 
 ### Getting started
 
-1. Clone the project
+1. Clone project
 2. $ make
 3. $ ./minishell
 4. $ help ~ to view available commands
