@@ -7,7 +7,7 @@ will be monitored by its parent’s process.
 
 ### Screenshot
 
-![Screenshot](https://raw.githubusercontent.com/mnchabeleng/Minishell/master/screenshot.png)
+![Screenshot](https://github.com/mnchabeleng/Minishell/blob/master/screenshot.png)
 
 ### Getting started
 
